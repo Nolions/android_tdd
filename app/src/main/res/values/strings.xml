@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">TDD</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
 </resources>
